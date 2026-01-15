@@ -1,0 +1,14 @@
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.hero-img {
+    width: 80%;
+    margin-bottom: 15px;
+}
+
+.gallery img {
+    width: 200px;
+    margin: 10px;
+}

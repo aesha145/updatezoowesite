@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Events</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="center">Upcoming Events</h1>
+<ul class="center">
+    <li>Animal Feeding Show</li>
+    <li>Kids Safari Tour</li>
+    <li>Wildlife Awareness Camp</li>
+</ul>
+
+</body>
+</html>
